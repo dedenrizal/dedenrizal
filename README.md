@@ -9,9 +9,9 @@ Saya seorang pengembang perangkat lunak dengan minat dalam backend web develover
 
 <!-- Tentang Saya -->
 ## Tentang Saya
-- 🌱 Saya sedang belajar [teknologi yang Anda pelajari].
+- 🌱 Saya sedang belajar php dan pyton.
 - 👯 Saya terbuka untuk berkolaborasi dalam proyek [proyek yang Anda minati].
-- 📝 Saya suka menulis artikel tentang [topik yang Anda tulis].
+- 📝 Saya suka menulis artikel tentang betapa pentingya bahasa pyton.
 
 <!-- Proyek Unggulan -->
 ## Proyek Unggulan

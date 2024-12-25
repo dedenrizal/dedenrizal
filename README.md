@@ -5,7 +5,7 @@ Saya seorang pengembang perangkat lunak dengan minat dalam backend web develover
 
 <!-- Tambahkan Ikon Sosial Media -->
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/dedenrizal)
-[![GitHub](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=github&logoColor=white)](https://instagram.com/dedenrizal)
+[![instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dedenrizal)
 
 
 <!-- Tentang Saya -->

@@ -1,7 +1,7 @@
-# Halo, Saya [Nama Anda]! 👋
+# Halo, Saya Deden Rizal! 👋
 
 <!-- Pengenalan Singkat -->
-Saya seorang pengembang perangkat lunak dengan minat dalam [bidang keahlian Anda].
+Saya seorang pengembang perangkat lunak dengan minat dalam Backend web develover dan pyton project.
 
 <!-- Tambahkan Ikon Sosial Media -->
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/dedenrizal)

@@ -15,7 +15,7 @@ Saya seorang pengembang perangkat lunak dengan minat dalam Backend web develover
 <!-- Proyek Unggulan -->
 
 <!-- Tambahan: GIF atau Gambar -->
-<img src="https://media.giphy.com/media/3o7aD4YXm5v4a5M1L6/giphy.gif" alt="Coding GIF">
+<img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="Coding GIF">
 
 <!-- Akhir Kata -->
 ## Terima Kasih Telah Berkunjung!

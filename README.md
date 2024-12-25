@@ -1,11 +1,12 @@
-# Halo, Saya Deden m Rizal! 👋
+# Halo, Saya [Nama Anda]! 👋
 
 <!-- Pengenalan Singkat -->
-Saya seorang pengembang perangkat lunak dengan minat dalam backend dan pyton projek.
+Saya seorang pengembang perangkat lunak dengan minat dalam [bidang keahlian Anda].
 
 <!-- Tambahkan Ikon Sosial Media -->
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/username)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/username)
 
 <!-- Tentang Saya -->
 ## Tentang Saya
@@ -15,15 +16,6 @@ Saya seorang pengembang perangkat lunak dengan minat dalam backend dan pyton pro
 
 <!-- Proyek Unggulan -->
 ## Proyek Unggulan
-
-
-<!-- Statistik GitHub -->
-## Statistik GitHub
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
-<!-- Languages -->
-## Bahasa Pemrograman yang Saya Gunakan
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
 
 <!-- Tambahan: GIF atau Gambar -->
 <img src="https://media.giphy.com/media/3o7aD4YXm5v4a5M1L6/giphy.gif" alt="Coding GIF">

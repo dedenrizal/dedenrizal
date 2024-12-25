@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @dedenrizal
-- 👀 I’m interested in mobile app and website
-- 🌱 I’m currently learning universitas suryakancana
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: im actually A spiderman 
+# Halo, Saya [Nama Anda]! 👋
 
-<!---
-dedenrizal/dedenrizal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Pengenalan Singkat -->
+Saya seorang pengembang perangkat lunak dengan minat dalam [bidang keahlian Anda].
+
+<!-- Tambahkan Ikon Sosial Media -->
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/username)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username/)
+
+<!-- Tentang Saya -->
+## Tentang Saya
+- 🌱 Saya sedang belajar [teknologi yang Anda pelajari].
+- 👯 Saya terbuka untuk berkolaborasi dalam proyek [proyek yang Anda minati].
+- 📝 Saya suka menulis artikel tentang [topik yang Anda tulis].
+
+<!-- Proyek Unggulan -->
+## Proyek Unggulan
+- [Proyek 1](https://github.com/username/proyek1) - Deskripsi singkat tentang proyek.
+- [Proyek 2](https://github.com/username/proyek2) - Deskripsi singkat tentang proyek.
+
+<!-- Statistik GitHub -->
+## Statistik GitHub
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+<!-- Languages -->
+## Bahasa Pemrograman yang Saya Gunakan
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
+
+<!-- Tambahan: GIF atau Gambar -->
+<img src="https://media.giphy.com/media/3o7aD4YXm5v4a5M1L6/giphy.gif" alt="Coding GIF">
+
+<!-- Akhir Kata -->
+## Terima Kasih Telah Berkunjung!
+Jangan ragu untuk menghubungi saya jika Anda tertarik untuk berkolaborasi atau hanya ingin berdiskusi! 😊

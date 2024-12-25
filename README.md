@@ -5,7 +5,6 @@ Saya seorang pengembang perangkat lunak dengan minat dalam [bidang keahlian Anda
 
 <!-- Tambahkan Ikon Sosial Media -->
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/dedenrizal)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram&logoColor=white)]([https://instagram.com/dedenrizal](https://www.threads.net/@riz.08_1?xmt=AQGzMfeDhtrzvGvD2NtxrrF0zH1INdSBVEJ3Cn71N2rcbN0))
 
 <!-- Tentang Saya -->
 ## Tentang Saya

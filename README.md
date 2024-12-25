@@ -4,8 +4,9 @@
 Saya seorang pengembang perangkat lunak dengan minat dalam backend web develover and pyton projek.
 
 <!-- Tambahkan Ikon Sosial Media -->
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/username)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/username)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/dedenrizal)
+[![GitHub](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=github&logoColor=white)](https://instagram.com/dedenrizal)
+
 
 <!-- Tentang Saya -->
 ## Tentang Saya

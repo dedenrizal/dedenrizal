@@ -13,18 +13,14 @@ Saya seorang pengembang perangkat lunak dengan minat dalam Backend web develover
 - 👯 Saya terbuka untuk berkolaborasi dalam proyek php dan pyton.
 - 📝 Saya suka menulis artikel tentang pyton.
 
-<div class="desain-img">
+<div class="desain-img" style="display:flex;
+    flex-direction:row;
+    gap:30px;">
 <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="Coding GIF"  style="width:400px; height:250px;">
 <img src="https://media.giphy.com/media/1ORxrBqFw1fVu/giphy.gif" alt="Coding GIF" style="width:400px; height:250px;">
 </div>
 
-<style>
-  .desain-img{
-    display:flex;
-    flex-direction:row;
-    gap:30px;
-  }
-</style>
+
 
 
 ## Terima Kasih Telah Berkunjung!

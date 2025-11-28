@@ -14,8 +14,8 @@ Saya seorang pengembang perangkat lunak dengan minat dalam Backend web develover
 - 📝 Saya suka menulis artikel tentang pyton.
 
 <div class="desain-img">
-<img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="Coding GIF">
-<img src="https://media.giphy.com/media/1ORxrBqFw1fVu/giphy.gif" alt="Coding GIF">
+<img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="Coding GIF"  style="width:400px; height:250px;">
+<img src="https://media.giphy.com/media/1ORxrBqFw1fVu/giphy.gif" alt="Coding GIF" style="width:400px; height:250px;">
 </div>
 
 <style>

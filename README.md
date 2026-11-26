@@ -1,6 +1,6 @@
 # Halo, I'm Deden muhamad Rizal! 👋
 
-Im a junior in developing all about programing especially python and php.
+Im a junior in developing all about programing especially python and sql.
 
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/dedenrizal)
@@ -8,7 +8,7 @@ Im a junior in developing all about programing especially python and php.
 
 
 ## Anbout me
-- 🌱 my superior framework is laravel, djanggo
+- 🌱 i like coding
 - 👯 I open to cooperative in php and python languages.
 - 📝 I like to help no matter what.
 
